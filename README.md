@@ -26,3 +26,4 @@ Following changes have been made:
 - sr added as a primitive variable (like U, rho, p) to the compressibleSystem libraries in blastfoam/src/compressibleSystem/twoPhaseCompressibleSystem
 
 -sr added as a primitive variable (like U, rho, p) to the update function in the fluxSchemes files in blastfoam/fluxSchemes/fluxScheme
+-sr added as primitive variable (like U,rho,p) to the initializerAtmosphere library in blastfoam/applications/utilities.
